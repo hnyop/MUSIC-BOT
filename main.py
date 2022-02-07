@@ -34,7 +34,7 @@ from pytgcalls.exceptions import NoActiveGroupCall, GroupCallNotFound
 from core.decorators import register, language, handle_error, only_admins
 
 REPO = """
-👨‍💻**Legend Music Player**👨‍💻
+**MR-KANNADIGA Music Player**
 - Repo: [GitHub](https://github.com/MR-KANNADIGA/MUSIC-BOT)
 - ⚜ [Owner](https://t.me/Mr_Professor_Agora) ⚜
 """
