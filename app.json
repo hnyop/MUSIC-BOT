@@ -1,8 +1,8 @@
 {
-    "name": "Legend Music Player",
+    "name": "Kannadiga Music Player",
     "description": "A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls",
-    "repository": "https://github.com/LEGEND-OS/LEGEND-MUSIC",
-    "logo": "https://github.com/LEGEND-OS/LEGEND-MUSIC/raw/main/theme/logo.png",
+    "repository": "https://github.com/MR-KANNADIGA/MUSIC-BOT",
+    "logo": "https://github.com/MR-KANNADIGA/MUSIC-BOT/raw/main/theme/logo.png",
     "stack": "container",
     "keywords": [
       "telegram",
@@ -25,7 +25,7 @@
         "required": true
       },
       "PYROGRAM_SESSION": {
-        "description": "Pyrogram session string, get it from https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py",
+        "description": "Pyrogram session string, get it from @SESSIONGENERATOR_ROBOT",
         "required": true
       },
       "SUDO_USERS": {
