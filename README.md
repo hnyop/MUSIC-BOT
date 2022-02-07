@@ -1,9 +1,11 @@
 ## LEGEND MUSIC USERBOT 
 
+[![KANNADIGA MUSIC](https://te.legra.ph/file/10a5482207504a09bb448.jpg)](https://github.com/MR-KANNADIGA/MUSIC-BOT)
+
 
 ## 🚀 <a name="deploy"></a>Deploy
 
-- [![Deploy](https://te.legra.ph/file/10a5482207504a09bb448.jpg)](https://heroku.com/deploy/)
+- [![Deploy](https://heroku.com/deploy/)
 
 
 -------------
