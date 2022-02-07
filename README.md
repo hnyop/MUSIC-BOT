@@ -1,4 +1,4 @@
-## LEGEND MUSIC USERBOT 
+# KANNADIGA MUSIC USERBOT 
 
 [![KANNADIGA MUSIC](https://te.legra.ph/file/10a5482207504a09bb448.jpg)](https://github.com/MR-KANNADIGA/MUSIC-BOT)
 
