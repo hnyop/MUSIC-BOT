@@ -5,7 +5,7 @@
 
 ## 🚀 <a name="deploy"></a>Deploy
 
-- [![Deploy][https://te.legra.ph/file/6e588fdeb6353f9d8ac70.jpg] (https://heroku.com/deploy/)
+- [![Deploy](https://te.legra.ph/file/6e588fdeb6353f9d8ac70.jpg) (https://heroku.com/deploy/)
 
 
 -------------
