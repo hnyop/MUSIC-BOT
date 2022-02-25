@@ -1,8 +1,8 @@
 {
-    "name": "Kannadiga Music Player",
+    "name": "✰♛𝐑𝐎𝐘𝐀𝐋♛✰➳🖤⃝⚔️𝐃𝐎𝐋𝐋𝐘🖤⃝⚔️",
     "description": "A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls",
-    "repository": "https://github.com/MR-KANNADIGA/MUSIC-BOT",
-    "logo": "https://github.com/MR-KANNADIGA/MUSIC-BOT/raw/main/theme/logo.png",
+    "repository": "https://github.com/hnyop/MUSIC-BOT",
+    "logo": "https://github.com/hnyop/MUSIC-BOT/raw/main/theme/logo.png",
     "stack": "container",
     "keywords": [
       "telegram",
