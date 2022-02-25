@@ -1,16 +1,16 @@
-# KANNADIGA MUSIC USERBOT 
+# ✰♛𝐑𝐎𝐘𝐀𝐋♛✰➳🖤⃝⚔️𝐃𝐎𝐋𝐋𝐘🖤⃝⚔️
 
-[![KANNADIGA MUSIC](https://te.legra.ph/file/10a5482207504a09bb448.jpg)](https://github.com/MR-KANNADIGA/MUSIC-BOT)
+[![KANNADIGA MUSIC](https://te.legra.ph/file/628e26b21f3abda8d05ee.jpg)](https://github.com/hnyop/MUSIC-BOT)
 
 
 ## 🚀 <a name="deploy"></a>Deploy
 
-- [![Deploy](https://te.legra.ph/file/6e588fdeb6353f9d8ac70.jpg)](https://heroku.com/deploy/)
+- [![Deploy](https://te.legra.ph/file/628e26b21f3abda8d05ee.jpg)](https://heroku.com/deploy/)
 
 
 -------------
 
-## [REPL](https://t.me/NAAN_1_KANNADIGA)
+## [REPL](https://t.me/ROYALDANGEROUSFIGHTERS)
 ## ☁️ <a name="self_host"></a>Self Host
 
 ```bash
